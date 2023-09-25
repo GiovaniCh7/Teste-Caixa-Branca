@@ -1,7 +1,9 @@
 # Teste-Caixa-Branca
 ##Descrição
 Esse código foi desenvolvido no Apache NetBeans utilizando a linguagem java. Ele foi desenvolvido para ser analisado através de um teste de caixa branca.
+
 ##Codigo
+![image](https://github.com/GiovaniCh7/Teste-Caixa-Branca/assets/117593376/219fd4bc-ecdc-46aa-b4ac-bbfdc43bd46b)
 
 ##Análise
 ###1- A documentação foi descrita no código?
