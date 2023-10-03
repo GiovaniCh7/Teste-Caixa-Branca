@@ -3,10 +3,13 @@
 Esse código foi desenvolvido no Apache NetBeans utilizando a linguagem java. Ele foi desenvolvido para ser analisado através de um teste de caixa branca.
  
 ###Grafo de fluxo
- 
+ ![image](https://github.com/GiovaniCh7/Teste-Caixa-Branca/assets/117593376/cb41c40a-3287-4165-8ebd-36271d754d1c)
+
 ###Complexidade
 De acordo com o grafo de fluxo feito, atraves da conta de complexidade obtemos 2 resultados. Sendo assim possuem 2 caminhosque precisam ser testados no codigo.
+
 ###Possíveis fluxos
+
 ###Fluxo principal
  ![image](https://github.com/GiovaniCh7/Teste-Caixa-Branca/assets/117593376/62c4752c-8cb3-4bf4-b01b-799641155b2a)
 
